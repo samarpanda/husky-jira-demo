@@ -27,4 +27,4 @@ module.exports = {
 }
 ```
 
-4. Now each git commit message should contain a jira id reference else the commit will fail. Pattern to follow for successful git commit is `JIRA-1: <Commit Message description>`
+4. Now each git commit message should contain a jira id reference else the commit will fail. Pattern to follow for successful git commit is `JIRA-<ID>: <Commit Message description>`
